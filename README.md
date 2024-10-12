@@ -15,7 +15,7 @@ This is an Android application that fetches stocks data from the [Financial Mode
 
 ### Screenshots
 <div align="center">
-  <img src="https://github.com/phoenix-kanak/LineUp/blob/kanak/app/src/main/res/drawable/WhatsApp Image 2024-10-13 at 02.11.38.jpeg?raw=true" width="100" height="200">
+  <img src="https://github.com/phoenix-kanak/CapX/blob/kanak/app/src/main/res/drawable/WhatsApp Image 2024-10-13 at 02.11.38.jpeg?raw=true" width="100" height="200">
   <img src="https://github.com/phoenix-kanak/LineUp/blob/kanak/app/src/main/res/drawable/WhatsApp Image 2024-10-13 at 02.11.30.jpeg?raw=true" width="100" height="200">
 </div>
   
