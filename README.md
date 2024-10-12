@@ -21,7 +21,10 @@ This is an Android application that fetches stocks data from the [Financial Mode
 2. Open the project in **Android Studio**.
 3. Run the app on an emulator or a physical device.
 
-### How It Works
-- The app fetches data from the Financial Modeling Prep API using Retrofit.
-- The fetched data is observed using LiveData in ViewModels and displayed in RecyclerViews.
+### APK Download Instructions
+- Download the APK from this link.
+- Open the downloaded APK on your Android device.
+- If prompted, enable installation from unknown sources in your device settings.
+- Now install the app.
+
 
