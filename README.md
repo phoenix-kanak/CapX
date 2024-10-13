@@ -12,12 +12,6 @@ This is an Android application that fetches stocks data from the [Financial Mode
 ### Features
 - Fetches a list of stocks from the Financial Modeling Prep API.
 - Allows users to search for stocks.
-
-### Screenshots
-<div align="center">
-  <img src="https://github.com/phoenix-kanak/CapX/blob/kanak/app/src/main/res/drawable/WhatsApp Image 2024-10-13 at 02.11.38.jpeg?raw=true" width="100" height="200">
-  <img src="[https://github.com/phoenix-kanak/CapX/blob/kanak/app/src/main/res/drawable/WhatsApp Image 2024-10-13 at 02.11.30.jpeg?raw=true](https://github.com/phoenix-kanak/CapX/blob/main/app/src/main/res/drawable/WhatsApp%20Image%202024-10-13%20at%2002.11.30.jpeg)" width="100" height="200">
-</div>
   
 ### Setup Instructions
 1. Clone the repository:
